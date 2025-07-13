@@ -1,0 +1,14 @@
+
+__pycache__/
+*.pyc
+
+.venv/
+
+results_*.parquet
+
+# Model binaries 
+model.bin
+
+logs/
+
+.vscode/
